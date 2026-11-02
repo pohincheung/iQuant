@@ -1,2 +1,3 @@
 # iQuant
-Personal notes on quantitative trading, research, and crypto markets.
+
+關於量化交易、研究及加密貨幣市場的個人筆記。
